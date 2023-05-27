@@ -1,0 +1,13 @@
+
+server:
+  port: 8081
+  
+  
+spring:
+  application:
+    name: ravi-rest-api
+
+app:
+ message:      
+   welcomeMsg: Welcome to Java..!
+   greetMsg: Good Morning..!
